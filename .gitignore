@@ -1,0 +1,5 @@
+password_log.txt
+*.txt
+!README.md
+__pycache__/
+.venv/
